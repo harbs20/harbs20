@@ -1,68 +1,52 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:101820,50:1f7a8c,100:f2aa4c&text=Luke%20Harbour&fontColor=ffffff&fontAlignY=38&fontSize=44&desc=building%20useful%20things%20with%20code,%20care,%20and%20curiosity&descAlignY=60&descSize=16" alt="Luke Harbour profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:101820,55:1f7a8c,100:f2aa4c&text=Luke%20Harbour&fontColor=ffffff&fontAlignY=38&fontSize=44&desc=curious,%20creative,%20and%20eager%20to%20learn&descAlignY=60&descSize=16" alt="Luke Harbour profile banner" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=1F7A8C&center=true&vCenter=true&width=760&lines=Product-minded+builder;Systems+thinker;Always+polishing+the+edges;Turning+ideas+into+working+software)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=1F7A8C&center=true&vCenter=true&width=760&lines=Beginning+coder+and+engineer;Arduino+projects+and+IRL+builds;Learning+Java;Open+to+literally+anything)](https://git.io/typing-svg)
+
+  <p>
+    <a href="https://github.com/harbs20">
+      <img src="https://img.shields.io/badge/GitHub-harbs20-101820?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+    </a>
+    <a href="mailto:luke.s.harbour@gmail.com">
+      <img src="https://img.shields.io/badge/Email-luke.s.harbour%40gmail.com-101820?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    </a>
+    <img src="https://img.shields.io/badge/Discord-%40harbs20-101820?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord: @harbs20" />
+  </p>
 
 </div>
 
-## Hey, I'm Luke
+## About Me
 
-I like making things that feel clear, fast, and quietly useful. My favorite work sits where engineering, product judgment, and a little design taste overlap: taking a fuzzy idea, finding the real shape inside it, and shipping something people can actually use.
+Hi, I'm Luke. I'm a beginning coder who mostly likes engineering and building things in real life. I am just starting to get more into coding, especially through Arduino projects and other things I can actually build.
 
-```txt
-Current mode
-------------------------------------------------------------
-Building       thoughtful tools, clean interfaces, useful automations
-Thinking about product loops, developer experience, AI-assisted workflows
-Learning       better systems, sharper craft, and what makes software feel alive
-Vibe           curious, practical, allergic to unnecessary complexity
-```
+Right now, I am learning Java, workflows, toolboxes, frameworks, and trying to remember more Python along the way.
 
-## Things I Like To Work On
+## Currently
 
-- Products that turn messy workflows into calm, obvious actions
-- Developer tools, scripts, and automations that save future brain cycles
-- Interfaces that respect attention and make the next step easy
-- Experiments with AI, creative tooling, and human-computer collaboration
-- Codebases that become easier to change every time someone touches them
+- Building: Arduino Arcade Project
+- Learning: Java
+- Exploring: Minecraft speedrunning
+- Open to: Literally anything
 
 ## Toolbox
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-101820?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-101820?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img alt="React" src="https://img.shields.io/badge/React-101820?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-101820?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-101820?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-101820?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-101820?style=flat-square&logo=arduino&logoColor=00979D" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-101820?style=flat-square&logo=cplusplus&logoColor=00599C" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-101820?style=flat-square&logo=openjdk&logoColor=ffffff" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-101820?style=flat-square&logo=python&logoColor=3776AB" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-101820?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-101820?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
 </p>
 
-## Profile Pulse
+## Featured Work
 
-<div align="center">
+| Project | What It Does | Built With |
+| --- | --- | --- |
+| [Arduino Arcade](https://github.com/harbs20/Arduino-Arcade) | Air hockey board that keeps score, uses LEDs, detects goals, and has a few other features | Arduino, C++ |
+| [Casino Game](https://github.com/harbs20/casino-game) | Fun little vibecoded casino game where I learned some Tailwind, Node, and basic project setup | Codex, Java, Tailwind, Node |
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harbs20&show_icons=true&hide_border=true&title_color=1f7a8c&icon_color=f2aa4c&text_color=d7dee8&bg_color=101820" alt="Luke's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=harbs20&hide_border=true&background=101820&ring=f2aa4c&fire=f2aa4c&currStreakLabel=1f7a8c&sideLabels=d7dee8&currStreakNum=ffffff&sideNums=ffffff&dates=9aa7b3" alt="Luke's GitHub streak" />
+## Ask Me About
 
-</div>
-
-## Good Reasons To Say Hi
-
-- You are building something ambitious and want a calm technical partner
-- You care about making software feel simpler without making it less powerful
-- You have a strange little product idea and want to make it real
-- You like thoughtful systems, clean interfaces, or excellent dev workflows
-
-<div align="center">
-
-  <a href="https://github.com/harbs20">
-    <img src="https://img.shields.io/badge/GitHub-harbs20-101820?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub profile" />
-  </a>
-
-  <br /><br />
-
-  <sub>Build useful things. Keep the edges clean. Leave the code kinder than you found it.</sub>
-
-</div>
+Minecraft speedrunning, MCSR, Arduino projects, or building stuff from scratch. If you want to talk about any of that, just DM me or shoot me an email.

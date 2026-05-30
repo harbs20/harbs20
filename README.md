@@ -18,7 +18,7 @@
 
 ## About Me
 
-Hi, I'm Luke. I'm an experienced engineer and a beginner coder. I like building things in real life, and I am starting to get more into coding through Arduino projects and other things I can actually build.
+Hi, I'm Luke. I'm an engineer and a beginner coder. I like building things in real life, and I am starting to get more into coding through Arduino projects and other things I can actually build.
 
 Also a Minecraft Speedrunner, and I am working on some things for that as well.
 

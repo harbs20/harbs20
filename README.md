@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:101820,55:1f7a8c,100:f2aa4c&text=Luke%20Harbour&fontColor=ffffff&fontAlignY=38&fontSize=44&desc=curious,%20creative,%20and%20eager%20to%20learn&descAlignY=60&descSize=16" alt="Luke Harbour profile banner" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=1F7A8C&center=true&vCenter=true&width=760&lines=Experienced+engineer,+beginner+coder;Arduino+projects+and+IRL+builds;Learning+Java;Open+to+literally+anything)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=1F7A8C&center=true&vCenter=true&width=760&lines=Engineer,+beginner+coder;Arduino+projects+and+IRL+builds;Learning+Java;Open+to+literally+anything)](https://git.io/typing-svg)
 
   <p>
     <a href="https://github.com/harbs20">

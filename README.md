@@ -14,6 +14,12 @@
     <img src="https://img.shields.io/badge/Discord-%40harbs20-101820?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord: @harbs20" />
   </p>
 
+  <p>
+    <a href="https://github.com/rowkav09/GitHub-profile-stats">
+      <img src="https://ghstats.dev/api/card?username=harbs20&bg=101820&text=ffffff&title_color=f2aa4c&icon_color=1f7a8c&border_color=1f7a8c&show_icons=true&custom_title=Luke%27s%20GitHub%20Stats" alt="Luke's GitHub profile stats" />
+    </a>
+  </p>
+
 </div>
 
 ## About Me

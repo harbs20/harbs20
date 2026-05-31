@@ -14,12 +14,6 @@
     <img src="https://img.shields.io/badge/Discord-%40harbs20-101820?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord: @harbs20" />
   </p>
 
-  <p>
-    <a href="https://github.com/rowkav09/GitHub-profile-stats">
-      <img src="https://ghstats.dev/api/card?username=harbs20&bg=101820&text=ffffff&title_color=f2aa4c&icon_color=1f7a8c&border_color=1f7a8c&show_icons=true&custom_title=Luke%27s%20GitHub%20Stats" alt="Luke's GitHub profile stats" />
-    </a>
-  </p>
-
 </div>
 
 ## About Me
@@ -35,16 +29,11 @@ Also a Minecraft Speedrunner, and I am working on some things for that as well.
 - Exploring: Minecraft speedrunning
 - Open to: Literally anything
 
-## Toolbox
+## Tech Stack
 
-<p>
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-101820?style=flat-square&logo=arduino&logoColor=00979D" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-101820?style=flat-square&logo=cplusplus&logoColor=00599C" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-101820?style=flat-square&logo=openjdk&logoColor=ffffff" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-101820?style=flat-square&logo=python&logoColor=3776AB" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-101820?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-101820?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,java,python,tailwind,nodejs,html,css,js&theme=dark&perline=9" alt="Tech stack icons for Arduino, C++, Java, Python, Tailwind CSS, Node.js, HTML, CSS, and JavaScript" />
+</div>
 
 ## Featured Work
 
@@ -56,3 +45,11 @@ Also a Minecraft Speedrunner, and I am working on some things for that as well.
 ## Ask Me About
 
 Minecraft speedrunning, MCSR, Arduino projects, or building stuff from scratch. If you want to talk about any of that, just DM me or shoot me an email.
+
+<div align="center">
+  <p>
+    <a href="https://github.com/rowkav09/GitHub-profile-stats">
+      <img src="https://ghstats.dev/api/card?username=harbs20&bg=101820&text=ffffff&title_color=f2aa4c&icon_color=1f7a8c&border_color=1f7a8c&show_icons=true&custom_title=Luke%27s%20GitHub%20Stats" alt="Luke's GitHub profile stats" />
+    </a>
+  </p>
+</div>
